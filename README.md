@@ -49,13 +49,17 @@ ecommerce-storefront/
 📌 Phase 1: Project Setup
 -------------------------
 ✅ Initialize a React project using Vite or Create React App
+
 ✅ Install dependencies (React Router, Redux, Axios, CSS, etc.)
+
 ✅ Set up folder structure and GitHub repository
 
 📌 Phase 2: UI/UX Design
 -------------------------
 ✅ Plan the design and create wireframes (use Figma/Adobe XD)
+
 ✅ Implement a responsive UI using CSS
+
 ✅ Create reusable UI components like Navbar, Footer, Buttons, Cards
 
 🔹 Pages to Create
@@ -67,32 +71,44 @@ ecommerce-storefront/
 📌 Phase 3: State Management & API Integration
 ----------------------------------------------
 ✅ Use React Context API or Redux for state management (Using Axios)
+
 ✅ Fetch products from a backend API or mock data
+
 ✅ Implement search and filter for products
 
 📌 Phase 4: Cart & Checkout Functionality
 ------------------------------------------
 ✅ Implement Add to Cart, Remove from Cart, Update Quantity
+
 ✅ Store cart items in localStorage for persistence
+
 ✅ Implement a Checkout Form (Name, Address, Payment)
+
 ✅ Integrate a dummy payment gateway (Stripe API integration - optional)
 
 📌 Phase 5: Authentication & User Management
 --------------------------------------------
 ✅ Implement User Login & Signup using Firebase/Auth0
+
 ✅ Secure checkout by allowing only logged-in users
+
 ✅ Store user information & order history in Firebase or a database
 
 📌 Phase 6: Deployment & Final Touches
 ---------------------------------------
 ✅ Optimize images and assets for performance
+
 ✅ Deploy the frontend on Vercel/Netlify
+
 ✅ Deploy the backend on Render/Heroku using Node.js
 
 📌 Future Enhancement plans
 ----------------------------
 🔹 Add a Wishlist feature
+
 🔹 Implement Product Reviews & Ratings
+
 🔹 Introduce Admin Panel for product management
+
 🔹 Add Dark Mode for better UX
 
