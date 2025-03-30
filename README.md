@@ -1,5 +1,5 @@
 # E-commerce-Storefront---React.js-Project
-e-commerce storefront where users can browse products, add items to the cart, and proceed to checkout. The app will use React.js for the frontend and a backend (Node.js/Express.js or Firebase) for managing products and orders
+e-commerce storefront where users can browse products, add items to the cart, and proceed to checkout. The app will use React.js for the frontend and a backend Node.js for managing products and orders
 
 📂 Project Structure
 ---------------------
@@ -22,8 +22,8 @@ ecommerce-storefront/
 
 🛠 Tech Stack
 --------------
-• Frontend: React.js, React Router, Redux/Context API, Tailwind CSS
-• Backend (Optional): Node.js, Express.js, Firebase
+• Frontend: React.js, React Router, Redux/Context API, CSS
+• Backend: Node.js
 • Database: Firestore, MongoDB (optional)
 • API Integration: FakeStore API, Stripe API (for payments)
 • Authentication: Firebase/Auth0
@@ -35,13 +35,13 @@ ecommerce-storefront/
 📌 Phase 1: Project Setup
 -------------------------
 ✅ Initialize a React project using Vite or Create React App
-✅ Install dependencies (React Router, Redux, Axios, Tailwind CSS, etc.)
+✅ Install dependencies (React Router, Redux, Axios, CSS, etc.)
 ✅ Set up folder structure and GitHub repository
 
 📌 Phase 2: UI/UX Design
 -------------------------
 ✅ Plan the design and create wireframes (use Figma/Adobe XD)
-✅ Implement a responsive UI using Tailwind CSS
+✅ Implement a responsive UI using CSS
 ✅ Create reusable UI components like Navbar, Footer, Buttons, Cards
 
 🔹 Pages to Create
@@ -73,7 +73,7 @@ ecommerce-storefront/
 ---------------------------------------
 ✅ Optimize images and assets for performance
 ✅ Deploy the frontend on Vercel/Netlify
-✅ Deploy the backend on Render/Heroku (if using Node.js)
+✅ Deploy the backend on Render/Heroku using Node.js
 
 📌 Future Enhancement plans
 ----------------------------
