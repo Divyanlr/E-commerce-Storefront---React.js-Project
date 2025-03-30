@@ -1,4 +1,5 @@
 # E-commerce-Storefront---React.js-Project
+
 e-commerce storefront where users can browse products, add items to the cart, and proceed to checkout. The app will use React.js for the frontend and a backend Node.js for managing products and orders
 
 📂 Project Structure
@@ -37,9 +38,13 @@ ecommerce-storefront/
 🛠 Tech Stack
 --------------
 • Frontend: React.js, React Router, Redux/Context API, CSS
+
 • Backend: Node.js
+
 • Database: Firestore, MongoDB (optional)
+
 • API Integration: FakeStore API, Stripe API (for payments)
+
 • Authentication: Firebase/Auth0
 
 
@@ -63,9 +68,13 @@ ecommerce-storefront/
 ✅ Create reusable UI components like Navbar, Footer, Buttons, Cards
 
 🔹 Pages to Create
+
 • Home Page: Show product categories and featured products
+
 • Product Page: Display product details, images, reviews
+
 • Cart Page: Show added products with quantity selection
+
 • Checkout Page: User fills in details and places an order
 
 📌 Phase 3: State Management & API Integration
