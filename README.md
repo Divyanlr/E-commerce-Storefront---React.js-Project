@@ -5,19 +5,33 @@ e-commerce storefront where users can browse products, add items to the cart, an
 ---------------------
 ecommerce-storefront/
 │── public/               # Static assets
+
 │── src/
+
 │   ├── components/       # Reusable UI components
+
 │   ├── pages/            # Page components (Home, Product, Cart, Checkout)
+
 │   ├── context/          # Global state management (Cart, Auth)
+
 │   ├── hooks/            # Custom hooks
+
 │   ├── services/         # API services
+
 │   ├── utils/            # Utility functions
+
 │   ├── App.js            # Main application file
+
 │   ├── index.js          # Entry point
+
 │── backend/              # (Optional) Backend code (Node.js/Express)
+
 │── package.json
+
 │── README.md
+
 │── .gitignore
+
 │── .env
 
 🛠 Tech Stack
